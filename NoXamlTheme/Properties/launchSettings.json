@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NoXamlTheme (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "NoXamlTheme (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
